@@ -1,5 +1,10 @@
-body{
-    height: 30rem;
+body, html {
+  height: 100%;
+}
+
+
+.main {
+    height: 100%;
     background-image: url('./images/background.png');
     background-position: center;
     background-repeat: no-repeat;  
